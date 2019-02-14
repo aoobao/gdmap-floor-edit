@@ -108,6 +108,7 @@ export default {
     height: 100%;
     background-color: bisque;
   }
+
   .point-context {
     width: 200px;
     height: 100%;
